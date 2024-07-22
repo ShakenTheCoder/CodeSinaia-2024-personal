@@ -1,2 +1,3 @@
 # CodeSinaia-2024-personal
-repository pt progrsamul code sinaia
+repository pt programul code sinaia
+sa vedem daca apar TOATE modificarile modificarile
